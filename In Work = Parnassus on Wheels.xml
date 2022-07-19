@@ -20,11 +20,11 @@
 
 <text>
 <div type="title-page">
-PARNASSUS ON WHEELS
+  <doctitle>PARNASSUS ON WHEELS</doctitle>
 
-BY
+  <byline>BY
 
-CHRISTOPHER MORLEY
+  CHRISTOPHER MORLEY</byline>
 </div>
 
 <div type="preface">
@@ -257,7 +257,7 @@ his desk. Just to show how such things sound I'll copy it here:
                 Believe us, etc., etc.,
                 </salute>
                 <signature>
-                DECAMERON, JONES & CO.
+                DECAMERON, JONES and CO.
                 </signature>
             </closer>
         </text>
@@ -516,7 +516,7 @@ bright eyes of a fanatic—
   I've covered the territory from Florida to Maine and I reckon I've 
   injected about as much good literature into the countryside as ever 
   old Doc Eliot did with his five-foot shelf. I want to sell out now. 
-  I'm going to write a book about <title rend="italics">Literature Among the Farmers<title>, and 
+  I'm going to write a book about <title rend="italics">Literature Among the Farmers</title>, and 
   want to settle down with my brother in Brooklyn and write it. I've got 
   a sackful of notes for it. I guess I'll just stick around until Mr. McGill gets home and
   see if he won't buy me out. I'll sell the whole concern, horse,
@@ -1110,7 +1110,7 @@ he said.
 
 <p>
 He pulled up a book from behind the seat—a copy of "Lorna Doone" it
-was—and showed me the letters <>_a m_</> scrawled in pencil in the back.
+was—and showed me the letters <emph rend="italic">a m</emph> scrawled in pencil in the back.
 </p>
 
 <p>
@@ -1121,7 +1121,7 @@ was—and showed me the letters <>_a m_</> scrawled in pencil in the back.
 </p>
 
 <p>
-  <q>"How do you know that <>_a m_</> stands for ten cents?"</q>
+  <q>"How do you know that <emph rend="italic">a m</emph> stands for ten cents?"</q>
 I asked.
 </p>
 
@@ -1131,12 +1131,15 @@ I asked.
 He scrawled it down on a scrap of paper:
 </p>
 
+<div>
   m a n u s c r i p t
   0 1 2 3 4 5 6 7 8 9
+</div>
 
 <p>
-  <q>"Now, you see <>_a m_</> stands for 10, <>_a n_</> would be 12, <>_n s_</> is 24,
-  <>_a c_</> is 15, <>_a m m_</> is $1.00, and so on. I don't pay much over
+  <q>"Now, you see <emph rend="italic">a m</emph> stands for 10, <emph rend="italic">a n</emph> would be 12, 
+  <emph rend="italic">n s</emph> is 24, <emph rend="italic">a c</emph> is 15, <emph rend="italic">a m m</emph> 
+  is $1.00, and so on. I don't pay much over
   fifty cents for books as a rule, because country folks are shy of
   paying much for them. They'll pay a lot for a separator or a buggy
   top, but they've never been taught to worry about literature! But
@@ -1144,9 +1147,9 @@ He scrawled it down on a scrap of paper:
   right kind. Over beyond Port Vigor there's a farmer who's waiting
   for me to go back—I've been there three or four times—and he'll
   buy about five dollars' worth if I know him. First time I went there
-  I sold him 'Treasure Island,' and he's talking about it yet. I sold
-  him 'Robinson Crusoe,' and 'Little Women' for his daughter, and
-  'Huck Finn,' and Grubb's book about 'The Potato.' Last time I was
+  I sold him <title>Treasure Island</title>, and he's talking about it yet. I sold
+  him <title>Robinson Crusoe</title>, and <title>Little Women</title> for his daughter, and
+  <title>Huck Finn</title>, and Grubb's book about <title>The Potato</title>. Last time I was
   there he wanted some Shakespeare, but I wouldn't give it to him.
   I didn't think he was up to it yet."</q>
 </p>
@@ -1176,7 +1179,7 @@ he said,
 
 <p>
 He laughed at his own vehemence. 
-  <q>"Do you know, it's comical," 
+  <q>"Do you know, it's comical,"</q> 
 he said. 
   <q>"Even the publishers, the fellows that print the books,
   can't see what I'm doing for them. Some of 'em refuse me credit
@@ -2190,7 +2193,7 @@ Mifflin. His eyes sparkled.
 </p>
 
 <p>
-  <q>"The Sage is evidently on our spoor,"<q/> 
+  <q>"The Sage is evidently on our spoor,"</q> 
 he chuckled. 
   <q>"Well, let's be
   off. I don't see what he can do even if he overhauls us."</q>
@@ -2391,7 +2394,7 @@ reading Andrew's stuff, as I thought it rather dull.
 <p>
   <p>"As for me,"</p> 
 said the Professor, 
-  <p>"I have no facility at the grand
+  <q>"I have no facility at the grand
   style. I have always suffered from the feeling that it's better to
   read a good book than to write a poor one; and I've done so much
   mixed reading in my time that my mind is full of echoes and voices
@@ -2831,7 +2834,7 @@ I said,
 <p>
 He pulled the book out of his pocket. Scrawled in it in pencil were
 the words 
-  <>"I have shed blood for Mr. Mifflin. Andrew McGill."</>
+  <emph>"I have shed blood for Mr. Mifflin. Andrew McGill."</emph>
 </p>
 
 <p>
@@ -3234,7 +3237,7 @@ And in spite of their protests and invitations to stay the
 night, I insisted on having Peg hitched up. I gave them the copy
 of the <title rend="italics">Jungle Book</title> as a small return for their hospitality,
 and finally sold Mr. Pratt a little copy of <title rend="italics">Lamb's Tales from
-Shakespeare<title> which I thought he could read without brain fever. Then
+Shakespeare</title> which I thought he could read without brain fever. Then
 I lit my lantern and after a chorus of good-byes Parnassus rolled
 away. 
     <q>"Well,"</q> 
@@ -4304,10 +4307,10 @@ I told him what I wanted.
 I said, 
     <q>"and tell them to let Mr. Mifflin have the money. I'll go there with him to
     identify him. Will that be all right?"</q>
-<p/>
+</p>
 
 <p>
-    <q>"Perfectly,"</q> 
+  <q>"Perfectly,"</q> 
 he said. The deceitful little snail! If I had only
 known what he was concocting!
 </p>
@@ -4448,7 +4451,7 @@ doesn't amount to much. Anyway, it'll never get over at a Dorcas
 meeting. That was the trouble with Henry James. Andrew talked so
 much about him that I took one of his books to read aloud at our
 sewing circle over at Redfield. Well, after one try we had to fall
-back on <title>Pollyanna</emph>.
+back on <title>Pollyanna</title>.
 </p>
 
 <p>
@@ -5531,7 +5534,7 @@ time in my experience of him he seemed to be at a loss for speech.
 </p>
 
 <p>
-    <q>"Miss—Miss McGill,"<.q> 
+    <q>"Miss—Miss McGill,"</q> 
 he stammered. 
     <q>"You <emph rend="bold">are</emph> the good Samaritan.
     I'm doing the John Bunyan act, see? Writing in prison. I've really
